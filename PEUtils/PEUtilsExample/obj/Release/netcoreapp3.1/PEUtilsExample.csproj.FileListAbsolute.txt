@@ -1,0 +1,16 @@
+D:\PECode\PEUtils\PEUtilsExample\bin\Release\netcoreapp3.1\PEUtilsExample.exe
+D:\PECode\PEUtils\PEUtilsExample\bin\Release\netcoreapp3.1\PEUtilsExample.deps.json
+D:\PECode\PEUtils\PEUtilsExample\bin\Release\netcoreapp3.1\PEUtilsExample.runtimeconfig.json
+D:\PECode\PEUtils\PEUtilsExample\bin\Release\netcoreapp3.1\PEUtilsExample.runtimeconfig.dev.json
+D:\PECode\PEUtils\PEUtilsExample\bin\Release\netcoreapp3.1\PEUtilsExample.dll
+D:\PECode\PEUtils\PEUtilsExample\bin\Release\netcoreapp3.1\PEUtilsExample.pdb
+D:\PECode\PEUtils\PEUtilsExample\bin\Release\netcoreapp3.1\PEUtils.dll
+D:\PECode\PEUtils\PEUtilsExample\bin\Release\netcoreapp3.1\PEUtils.pdb
+D:\PECode\PEUtils\PEUtilsExample\obj\Release\netcoreapp3.1\PEUtilsExample.csprojAssemblyReference.cache
+D:\PECode\PEUtils\PEUtilsExample\obj\Release\netcoreapp3.1\PEUtilsExample.AssemblyInfoInputs.cache
+D:\PECode\PEUtils\PEUtilsExample\obj\Release\netcoreapp3.1\PEUtilsExample.AssemblyInfo.cs
+D:\PECode\PEUtils\PEUtilsExample\obj\Release\netcoreapp3.1\PEUtilsExample.csproj.CoreCompileInputs.cache
+D:\PECode\PEUtils\PEUtilsExample\obj\Release\netcoreapp3.1\PEUtilsExample.csproj.CopyComplete
+D:\PECode\PEUtils\PEUtilsExample\obj\Release\netcoreapp3.1\PEUtilsExample.dll
+D:\PECode\PEUtils\PEUtilsExample\obj\Release\netcoreapp3.1\PEUtilsExample.pdb
+D:\PECode\PEUtils\PEUtilsExample\obj\Release\netcoreapp3.1\PEUtilsExample.genruntimeconfig.cache

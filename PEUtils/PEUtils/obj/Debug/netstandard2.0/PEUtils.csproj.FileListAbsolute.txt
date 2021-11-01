@@ -1,0 +1,12 @@
+D:\PECode\PEUtils\PEUtils\bin\Debug\netstandard2.0\PEUtils.deps.json
+D:\PECode\PEUtils\PEUtils\bin\Debug\netstandard2.0\PEUtils.dll
+D:\PECode\PEUtils\PEUtils\bin\Debug\netstandard2.0\PEUtils.pdb
+D:\PECode\PEUtils\PEUtilsUnity\Assets\Scripts\netstandard2.0\PEUtils.deps.json
+D:\PECode\PEUtils\PEUtilsUnity\Assets\Scripts\netstandard2.0\PEUtils.dll
+D:\PECode\PEUtils\PEUtilsUnity\Assets\Scripts\netstandard2.0\PEUtils.pdb
+D:\PECode\PEUtils\PEUtils\obj\Debug\netstandard2.0\PEUtils.AssemblyInfoInputs.cache
+D:\PECode\PEUtils\PEUtils\obj\Debug\netstandard2.0\PEUtils.AssemblyInfo.cs
+D:\PECode\PEUtils\PEUtils\obj\Debug\netstandard2.0\PEUtils.csproj.CoreCompileInputs.cache
+D:\PECode\PEUtils\PEUtils\obj\Debug\netstandard2.0\PEUtils.dll
+D:\PECode\PEUtils\PEUtils\obj\Debug\netstandard2.0\PEUtils.pdb
+D:\PECode\PEUtils\PEUtils\obj\Debug\netstandard2.0\PEUtils.csprojAssemblyReference.cache

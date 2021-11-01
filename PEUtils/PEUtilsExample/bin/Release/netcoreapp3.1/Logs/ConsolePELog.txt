@@ -1,0 +1,26 @@
+[L]# 09:10:30-233  ThreadID:1 >> ServerPELog start...
+[L]# 09:10:30-264  ThreadID:1 >> Color Log:Red.
+[L]# 09:10:30-265  ThreadID:1 >> Color Log:Green.
+[L]# 09:10:30-265  ThreadID:1 >> Color Log:Blue.
+[L]# 09:10:30-265  ThreadID:1 >> Color Log:Cyan.
+[L]# 09:10:30-265  ThreadID:1 >> Color Log:Magenta.
+[L]# 09:10:30-265  ThreadID:1 >> Color Log:Yellow.
+[L]# 09:10:30-265  ThreadID:1 >> 
+Plane老师，专注实战，只讲干货。
+Email:1785275942@qq.com
+[L]# 09:10:30-266  ThreadID:1 >> Init Root Log.
+[W]# 09:10:30-266  ThreadID:1 >> Init Mgr Warn
+[E]# 09:10:30-267  ThreadID:1 >> Init Item Error
+StackTrace:
+    D:\PECode\PEUtils\PEUtils\PELog\PELog.cs::Void Error(System.Object, System.String) Line:46
+    D:\PECode\PEUtils\PEUtilsExample\PEUtilsTestStart.cs::Void Init() Line:34
+    D:\PECode\PEUtils\PEUtilsExample\PEUtilsTestStart.cs::Void Init() Line:29
+    D:\PECode\PEUtils\PEUtilsExample\PEUtilsTestStart.cs::Void Init() Line:22
+    D:\PECode\PEUtils\PEUtilsExample\PEUtilsTestStart.cs::Void Main(System.String[]) Line:51
+[T]# 09:10:30-451  ThreadID:1 >> Trace This Function.
+StackTrace:
+    D:\PECode\PEUtils\PEUtils\PELog\PELog.cs::Void Trace(System.Object, System.String, System.Object[]) Line:37
+    D:\PECode\PEUtils\PEUtilsExample\PEUtilsTestStart.cs::Void Init() Line:35
+    D:\PECode\PEUtils\PEUtilsExample\PEUtilsTestStart.cs::Void Init() Line:29
+    D:\PECode\PEUtils\PEUtilsExample\PEUtilsTestStart.cs::Void Init() Line:22
+    D:\PECode\PEUtils\PEUtilsExample\PEUtilsTestStart.cs::Void Main(System.String[]) Line:51
